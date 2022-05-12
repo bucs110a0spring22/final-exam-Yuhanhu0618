@@ -11,17 +11,22 @@ _Replace anything surrounded by the `< >` symbols._
 Please make sure you have completed the soot survey at:
     [soot.binghamton.edu](https://soot.binghamton.edu)
 
-Please list the urls for the APIs you used:
+Please list the urls for the APIs you used: 
 
-Summary of Program:
+Earthquake API: https://earthquake.usgs.gov/fdsnws/event/1/#format-text 
 
-Most Challenging topic in the course:
+Geo location API:
+https://docs.microsoft.com/en-us/bingmaps/rest-services/locations/find-a-location-by-query
+
+Summary of Program: This program takes in the city name that the user input, use the GeoAPI to find the latitude and logitude, then input it to the earthquake API with the maximum radius that the user want to find the number of earthquake happened in that circle.
+
+Most challenging topic in the course: I think most of them is not hard for me, but it's just that I would like more time to digest and practice.
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None
 
 ## REFERENCES:
- < List any outside resources used >
+ None
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ Thank you for all the help and support of this semester! Enjoy your summer! :)
